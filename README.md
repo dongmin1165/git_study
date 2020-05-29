@@ -1,1 +1,3 @@
-# git_study
+#1 git_study
+
+hi. hello.
